@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T14:59:07 IST" name="Default suite" finished-at="2024-04-25T14:59:09 IST" duration-ms="2254">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T14:59:07 IST" name="Default test" finished-at="2024-04-25T14:59:09 IST" duration-ms="2254">
+      <class name="responsebody.ResponseBodyClass">
+        <test-method signature="getBodydetails()[pri:0, instance:responsebody.ResponseBodyClass@39529185]" started-at="2024-04-25T14:59:07 IST" name="getBodydetails" finished-at="2024-04-25T14:59:09 IST" duration-ms="2212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBodydetails -->
+      </class> <!-- responsebody.ResponseBodyClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
